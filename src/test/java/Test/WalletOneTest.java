@@ -26,7 +26,7 @@ public class WalletOneTest {
         open("https://www.google.com/");
         GooglePageSteps googleSteps = new GooglePageSteps();
         googleSteps.searchInGoogle("walletone сайт");
-        googleSteps.clickLinkedText("Единый кошелёк - Единый кошелек");
+        googleSteps.clickLinkedText("Единый кошелек - Единая касса");
         new TabsHelper().goToLastTab();
     }
 

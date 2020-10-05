@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/src/test/java/Test/WalletOneTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/locators/ChangePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/locators/GooglePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/locators/LoginPage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/locators/MainPage.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
